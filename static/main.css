@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: sandybrown;
+}
+
+table {
+    width: 100%;
+}
+table > thead > th {
+    text-align: center;
+}
